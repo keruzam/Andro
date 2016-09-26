@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Andro</string>
+    <string name="action_settings">Ustawienia</string>
+    <string name="name_hint">Jak masz na imię?</string>
+    <string name="no_answer">Nie!</string>
+    <string name="question">Jesteś szczęśliwy??</string>
+    <string name="yes_answer">Tak</string>
+    <string name="yes_answer_hint">KliknijTutaj</string>
+</resources>
